@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  strat_time: 2025-03-26 12:49:52
+  end_time: 2025-03-26 12:49:52
+
+two:
+  name: MyString
+  strat_time: 2025-03-26 12:49:52
+  end_time: 2025-03-26 12:49:52
